@@ -1,2 +1,5 @@
 # Python related
 .venv
+
+# Bot storage
+oliver_data.json

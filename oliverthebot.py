@@ -39,7 +39,7 @@ class ColdStorageData:
         self.data = self.load_data()
 
 class BotState:
-    client_token = 'Nzg4NTc1MzA0MzMxNDI3ODQw.X9lf-w.BEWlc_LDWIrpu2dWT4oWsWySdGc'
+    client_token = '<REPLACE>'
 
     # ID for Memers and Wieners guild.
     memer_guild_id = 229457808695885824
