@@ -1,5 +1,9 @@
 # Python related
 .venv
+__pycache__
 
 # Bot storage
 oliver_data.json
+
+# Client token
+client_token
